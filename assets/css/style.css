@@ -207,7 +207,7 @@ html {
     justify-content: center;
   }
   .about .section .about__content {
-    max-width: 100%;
+    max-width: 90%;
   }
 }
 .work-process {
