@@ -201,6 +201,15 @@ html {
   letter-spacing: 0.5px;
 }
 
+@media (max-width: 992px) {
+  .about .section {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .about .section .about__content {
+    max-width: 100%;
+  }
+}
 .work-process {
   background: url(../img/work-process-bg.png) center bottom/cover no-repeat;
 }
