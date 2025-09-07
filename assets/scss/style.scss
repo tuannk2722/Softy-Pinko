@@ -240,6 +240,16 @@ html {
         }
     }
 }
+@media (max-width: 992px) {
+    .about .section{
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .about__content {
+            max-width: 100%;
+        }
+    }
+}
 // End about
 
 // Begin work process
