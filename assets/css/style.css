@@ -207,7 +207,11 @@ html {
     justify-content: center;
   }
   .about .section .about__content {
+<<<<<<< HEAD
     max-width: 100%;
+=======
+    max-width: 90%;
+>>>>>>> 83fdb186b825193cfaa5a6e97e76fe69e4a5e7f1
   }
 }
 .work-process {
